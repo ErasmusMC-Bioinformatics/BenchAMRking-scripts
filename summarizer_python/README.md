@@ -11,3 +11,6 @@ pip install openpyxl
 pip install pandas
 pip install scipy
 pip install seaborn
+
+# galaxy api
+pip install bioblend
